@@ -1,0 +1,13 @@
+body { text-align:center; background-color: lightgoldenrodyellow;
+font-family:'Times New Roman', Times, serif};
+.wrapper {margin: 0 auto; max-width: 1024px;}
+header { text-align: center;}
+.personal-info {display: inline-block; vertical-align: middle; margin-left: 20px;}
+ul {line-height:1.7; text-align:center; list-style-position: inside;}
+p {line-height:1.4}
+h2{margin-top:50px;}
+img {display:block; height:340px; width:280px; margin-top:3px;}
+#photocontainer{margin-top:0; margin-left:10px; display: inline-block; vertical-align: middle;}
+ #myown {line-height:1.6; font-family:monospace;font-size:16px;}
+ aside p {text-align:center; }
+ #boldest { font-weight: 900;}
